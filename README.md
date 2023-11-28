@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Campedelli</h1>
 <h3 align="center">A passionate frontend developer from Brazil, currently living in Canada!</h3>
 
-- 🔭 I’m currently working on [RPG Blog](https://camp1080.github.io/mad9013-project-two-page-site/index.html)
+- 🔭 I’m currently working on a [RPG Blog](https://camp1080.github.io/mad9013-project-two-page-site/index.html)
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
