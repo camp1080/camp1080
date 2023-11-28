@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pr.campedelli@gmail.com**
 
-- ⚡ Fun fact **I'm a Fighting Dreamer (Those in the know will understand)**
+- ⚡ Fun fact **I'm a Fighting Dreamer (those in the know will understand).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
